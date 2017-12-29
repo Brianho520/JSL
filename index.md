@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi all this is Brian.
 
 You can use the [editor on GitHub](https://github.com/Brianho520/JSL/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
